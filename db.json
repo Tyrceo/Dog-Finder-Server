@@ -1,0 +1,2913 @@
+{
+  "success": true,
+  "payload": [
+    {
+      "_id": "646f62e88ca06eedee4e44ea",
+      "name": "Callie",
+      "price": "$3,274.99",
+      "picture": "https://placedog.net/500/280/?id=1",
+      "age": 14,
+      "eyeColor": "green",
+      "gender": "female",
+      "tags": []
+    },
+    {
+      "_id": "646f62e886d97adf25d6ba83",
+      "name": "Sheena",
+      "price": "$1,699.67",
+      "picture": "https://placedog.net/500/280/?id=2",
+      "age": 11,
+      "eyeColor": "yellow",
+      "gender": "female",
+      "tags": [
+        "agitated",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e8432e2d073ccc2849",
+      "name": "Dodson",
+      "price": "$3,573.67",
+      "picture": "https://placedog.net/500/280/?id=3",
+      "age": 8,
+      "eyeColor": "amber",
+      "gender": "male",
+      "tags": [
+        "agitated",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e85b2f2df2ba20b4ff",
+      "name": "Tyson",
+      "price": "$3,892.13",
+      "picture": "https://placedog.net/500/280/?id=4",
+      "age": 2,
+      "eyeColor": "hazel",
+      "gender": "male",
+      "tags": [
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8f0fdafe2bd98bc28",
+      "name": "Lyons",
+      "price": "$3,931.11",
+      "picture": "https://placedog.net/500/280/?id=5",
+      "age": 14,
+      "eyeColor": "hazel",
+      "gender": "male",
+      "tags": [
+        "agitated",
+        "shy"
+      ]
+    },
+    {
+      "_id": "646f62e8ffca061337877b03",
+      "name": "Bridges",
+      "price": "$3,381.46",
+      "picture": "https://placedog.net/500/280/?id=6",
+      "age": 6,
+      "eyeColor": "amber",
+      "gender": "male",
+      "tags": [
+        "calm"
+      ]
+    },
+    {
+      "_id": "646f62e8fd435ae038a61300",
+      "name": "Susie",
+      "price": "$3,896.45",
+      "picture": "https://placedog.net/500/280/?id=7",
+      "age": 11,
+      "eyeColor": "hazel",
+      "gender": "female",
+      "tags": [
+        "agitated",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e82a967d57131c1408",
+      "name": "Christi",
+      "price": "$2,175.19",
+      "picture": "https://placedog.net/500/280/?id=8",
+      "age": 8,
+      "eyeColor": "brown",
+      "gender": "female",
+      "tags": [
+        "agitated",
+        "shy",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e86bfe227624c94df0",
+      "name": "Eleanor",
+      "price": "$2,217.24",
+      "picture": "https://placedog.net/500/280/?id=9",
+      "age": 13,
+      "eyeColor": "yellow",
+      "gender": "female",
+      "tags": [
+        "agitated",
+        "fearful",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e8178181956b2db4f8",
+      "name": "Lily",
+      "price": "$3,018.03",
+      "picture": "https://placedog.net/500/280/?id=10",
+      "age": 4,
+      "eyeColor": "blue",
+      "gender": "female",
+      "tags": [
+        "courageous",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8af2226841c72aeca",
+      "name": "Dionne",
+      "price": "$3,342.24",
+      "picture": "https://placedog.net/500/280/?id=11",
+      "age": 2,
+      "eyeColor": "brown",
+      "gender": "female",
+      "tags": [
+        "agitated",
+        "courageous"
+      ]
+    },
+    {
+      "_id": "646f62e8fd60d142c5c32b1f",
+      "name": "Dolly",
+      "price": "$1,603.04",
+      "picture": "https://placedog.net/500/280/?id=12",
+      "age": 8,
+      "eyeColor": "blue",
+      "gender": "female",
+      "tags": [
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e84afc6f4caf347916",
+      "name": "Oneal",
+      "price": "$3,328.94",
+      "picture": "https://placedog.net/500/280/?id=13",
+      "age": 4,
+      "eyeColor": "green",
+      "gender": "male",
+      "tags": [
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e833d33e19235d2fe2",
+      "name": "Mcconnell",
+      "price": "$2,843.39",
+      "picture": "https://placedog.net/500/280/?id=14",
+      "age": 1,
+      "eyeColor": "blue",
+      "gender": "male",
+      "tags": [
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e8bac915236699898a",
+      "name": "Wheeler",
+      "price": "$1,664.94",
+      "picture": "https://placedog.net/500/280/?id=15",
+      "age": 7,
+      "eyeColor": "green",
+      "gender": "male",
+      "tags": [
+        "agitated"
+      ]
+    },
+    {
+      "_id": "646f62e8e4921af086cbe8c3",
+      "name": "Berry",
+      "price": "$2,019.47",
+      "picture": "https://placedog.net/500/280/?id=16",
+      "age": 1,
+      "eyeColor": "yellow",
+      "gender": "male",
+      "tags": [
+        "aggressive",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8c0fe5596bbb63b2e",
+      "name": "Claire",
+      "price": "$1,674.75",
+      "picture": "https://placedog.net/500/280/?id=17",
+      "age": 5,
+      "eyeColor": "brown",
+      "gender": "female",
+      "tags": [
+        "fearful",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e866099eff619ccd55",
+      "name": "Jacobs",
+      "price": "$2,348.33",
+      "picture": "https://placedog.net/500/280/?id=18",
+      "age": 5,
+      "eyeColor": "green",
+      "gender": "male",
+      "tags": [
+        "calm",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e8c137700f528791d6",
+      "name": "Lupe",
+      "price": "$2,968.74",
+      "picture": "https://placedog.net/500/280/?id=19",
+      "age": 12,
+      "eyeColor": "green",
+      "gender": "female",
+      "tags": [
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e81cd5b50c07e154e6",
+      "name": "Henrietta",
+      "price": "$1,976.61",
+      "picture": "https://placedog.net/500/280/?id=20",
+      "age": 8,
+      "eyeColor": "hazel",
+      "gender": "female",
+      "tags": [
+        "calm",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e8fa7b1440ec9b11f9",
+      "name": "Middleton",
+      "price": "$1,743.72",
+      "picture": "https://placedog.net/500/280/?id=21",
+      "age": 6,
+      "eyeColor": "brown",
+      "gender": "male",
+      "tags": [
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e87ec9e6ded07feb07",
+      "name": "Mcfarland",
+      "price": "$3,158.96",
+      "picture": "https://placedog.net/500/280/?id=22",
+      "age": 3,
+      "eyeColor": "blue",
+      "gender": "male",
+      "tags": [
+        "agitated"
+      ]
+    },
+    {
+      "_id": "646f62e870ba5e52d67ad4a7",
+      "name": "Rosario",
+      "price": "$2,072.74",
+      "picture": "https://placedog.net/500/280/?id=23",
+      "age": 13,
+      "eyeColor": "yellow",
+      "gender": "male",
+      "tags": [
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8fd981c7213235428",
+      "name": "Manuela",
+      "price": "$3,425.56",
+      "picture": "https://placedog.net/500/280/?id=24",
+      "age": 1,
+      "eyeColor": "yellow",
+      "gender": "female",
+      "tags": [
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e890c60a44ea48c9f4",
+      "name": "Sonja",
+      "price": "$3,575.13",
+      "picture": "https://placedog.net/500/280/?id=25",
+      "age": 6,
+      "eyeColor": "hazel",
+      "gender": "female",
+      "tags": [
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8a377552b0b0edcaf",
+      "name": "Cabrera",
+      "price": "$2,731.92",
+      "picture": "https://placedog.net/500/280/?id=26",
+      "age": 10,
+      "eyeColor": "brown",
+      "gender": "male",
+      "tags": [
+        "agitated",
+        "courageous",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e830e70c2a805723a5",
+      "name": "Burnett",
+      "price": "$1,711.46",
+      "picture": "https://placedog.net/500/280/?id=27",
+      "age": 10,
+      "eyeColor": "amber",
+      "gender": "male",
+      "tags": [
+        "shy"
+      ]
+    },
+    {
+      "_id": "646f62e822e968f9f9c67e29",
+      "name": "Wilkinson",
+      "price": "$2,881.89",
+      "picture": "https://placedog.net/500/280/?id=28",
+      "age": 10,
+      "eyeColor": "blue",
+      "gender": "male",
+      "tags": [
+        "calm",
+        "courageous"
+      ]
+    },
+    {
+      "_id": "646f62e88c89affb03a79790",
+      "name": "Foster",
+      "price": "$2,788.91",
+      "picture": "https://placedog.net/500/280/?id=29",
+      "age": 11,
+      "eyeColor": "brown",
+      "gender": "male",
+      "tags": [
+        "agitated",
+        "courageous",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8e9c531e28de823b1",
+      "name": "Patterson",
+      "price": "$2,046.66",
+      "picture": "https://placedog.net/500/280/?id=30",
+      "age": 7,
+      "eyeColor": "brown",
+      "gender": "male",
+      "tags": [
+        "agitated"
+      ]
+    },
+    {
+      "_id": "646f62e8552b2e485de17602",
+      "name": "Kline",
+      "price": "$1,734.32",
+      "picture": "https://placedog.net/500/280/?id=31",
+      "age": 6,
+      "eyeColor": "hazel",
+      "gender": "male",
+      "tags": []
+    },
+    {
+      "_id": "646f62e8c622fc9384ce6259",
+      "name": "Bernadette",
+      "price": "$1,343.28",
+      "picture": "https://placedog.net/500/280/?id=32",
+      "age": 5,
+      "eyeColor": "hazel",
+      "gender": "female",
+      "tags": [
+        "calm"
+      ]
+    },
+    {
+      "_id": "646f62e87ca4d22231653639",
+      "name": "Pamela",
+      "price": "$1,898.60",
+      "picture": "https://placedog.net/500/280/?id=33",
+      "age": 15,
+      "eyeColor": "blue",
+      "gender": "female",
+      "tags": [
+        "aggressive",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e8d56b7d2a76fd6620",
+      "name": "Tasha",
+      "price": "$3,743.69",
+      "picture": "https://placedog.net/500/280/?id=34",
+      "age": 6,
+      "eyeColor": "yellow",
+      "gender": "female",
+      "tags": [
+        "calm",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8706d5b4aa803854d",
+      "name": "Ewing",
+      "price": "$3,941.44",
+      "picture": "https://placedog.net/500/280/?id=35",
+      "age": 14,
+      "eyeColor": "hazel",
+      "gender": "male",
+      "tags": [
+        "courageous",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8f9c1f55623d82889",
+      "name": "Kramer",
+      "price": "$1,009.94",
+      "picture": "https://placedog.net/500/280/?id=36",
+      "age": 14,
+      "eyeColor": "brown",
+      "gender": "male",
+      "tags": [
+        "aggressive",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8bc035ca039b1a139",
+      "name": "Marie",
+      "price": "$2,144.87",
+      "picture": "https://placedog.net/500/280/?id=37",
+      "age": 8,
+      "eyeColor": "hazel",
+      "gender": "female",
+      "tags": [
+        "fearful"
+      ]
+    },
+    {
+      "_id": "646f62e8c6b0567644909e37",
+      "name": "Rojas",
+      "price": "$2,421.93",
+      "picture": "https://placedog.net/500/280/?id=38",
+      "age": 1,
+      "eyeColor": "brown",
+      "gender": "male",
+      "tags": [
+        "aggressive"
+      ]
+    },
+    {
+      "_id": "646f62e82db070c7d5149097",
+      "name": "Williams",
+      "price": "$2,433.56",
+      "picture": "https://placedog.net/500/280/?id=39",
+      "age": 5,
+      "eyeColor": "blue",
+      "gender": "male",
+      "tags": [
+        "courageous",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e81ccd7e0d341ed605",
+      "name": "Opal",
+      "price": "$2,403.57",
+      "picture": "https://placedog.net/500/280/?id=40",
+      "age": 3,
+      "eyeColor": "blue",
+      "gender": "female",
+      "tags": [
+        "agitated",
+        "shy",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8ffb2db406ffd0e23",
+      "name": "Horne",
+      "price": "$3,478.18",
+      "picture": "https://placedog.net/500/280/?id=41",
+      "age": 4,
+      "eyeColor": "amber",
+      "gender": "male",
+      "tags": [
+        "calm",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e8630bd370feda53a9",
+      "name": "Carver",
+      "price": "$1,222.25",
+      "picture": "https://placedog.net/500/280/?id=42",
+      "age": 2,
+      "eyeColor": "green",
+      "gender": "male",
+      "tags": [
+        "courageous",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8f91c9fd4ac9c2618",
+      "name": "Pope",
+      "price": "$3,923.49",
+      "picture": "https://placedog.net/500/280/?id=43",
+      "age": 1,
+      "eyeColor": "blue",
+      "gender": "male",
+      "tags": [
+        "courageous"
+      ]
+    },
+    {
+      "_id": "646f62e8eb95590404184b70",
+      "name": "Isabelle",
+      "price": "$2,699.09",
+      "picture": "https://placedog.net/500/280/?id=44",
+      "age": 5,
+      "eyeColor": "brown",
+      "gender": "female",
+      "tags": [
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8aca54370d391df96",
+      "name": "Rosalie",
+      "price": "$3,599.11",
+      "picture": "https://placedog.net/500/280/?id=45",
+      "age": 1,
+      "eyeColor": "brown",
+      "gender": "female",
+      "tags": [
+        "calm",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e85c9e3185ac417024",
+      "name": "Ross",
+      "price": "$1,397.61",
+      "picture": "https://placedog.net/500/280/?id=46",
+      "age": 7,
+      "eyeColor": "green",
+      "gender": "male",
+      "tags": [
+        "shy",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e82cd87f1ac750fcf6",
+      "name": "Lewis",
+      "price": "$2,187.89",
+      "picture": "https://placedog.net/500/280/?id=47",
+      "age": 7,
+      "eyeColor": "blue",
+      "gender": "male",
+      "tags": [
+        "shy",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e819085287b040eb20",
+      "name": "Pruitt",
+      "price": "$2,727.00",
+      "picture": "https://placedog.net/500/280/?id=48",
+      "age": 12,
+      "eyeColor": "yellow",
+      "gender": "male",
+      "tags": [
+        "courageous"
+      ]
+    },
+    {
+      "_id": "646f62e8eec1579a5f23ffae",
+      "name": "Courtney",
+      "price": "$2,446.91",
+      "picture": "https://placedog.net/500/280/?id=49",
+      "age": 4,
+      "eyeColor": "yellow",
+      "gender": "female",
+      "tags": [
+        "agitated"
+      ]
+    },
+    {
+      "_id": "646f62e862bee1ed8f7c1474",
+      "name": "Mckay",
+      "price": "$3,667.92",
+      "picture": "https://placedog.net/500/280/?id=50",
+      "age": 2,
+      "eyeColor": "brown",
+      "gender": "male",
+      "tags": [
+        "fearful"
+      ]
+    },
+    {
+      "_id": "646f62e8a2e9eeb5f4517f76",
+      "name": "Suzanne",
+      "price": "$3,437.43",
+      "picture": "https://placedog.net/500/280/?id=51",
+      "age": 9,
+      "eyeColor": "amber",
+      "gender": "female",
+      "tags": [
+        "calm"
+      ]
+    },
+    {
+      "_id": "646f62e8ed973e1d6c1bf1da",
+      "name": "Joanna",
+      "price": "$3,048.29",
+      "picture": "https://placedog.net/500/280/?id=52",
+      "age": 10,
+      "eyeColor": "hazel",
+      "gender": "female",
+      "tags": [
+        "agitated"
+      ]
+    },
+    {
+      "_id": "646f62e88b48d93f78f9e7ae",
+      "name": "Julia",
+      "price": "$1,352.96",
+      "picture": "https://placedog.net/500/280/?id=53",
+      "age": 11,
+      "eyeColor": "brown",
+      "gender": "female",
+      "tags": [
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e8b7a4cae6f1f63648",
+      "name": "Summer",
+      "price": "$2,364.96",
+      "picture": "https://placedog.net/500/280/?id=54",
+      "age": 9,
+      "eyeColor": "green",
+      "gender": "female",
+      "tags": [
+        "calm",
+        "courageous"
+      ]
+    },
+    {
+      "_id": "646f62e8d84495e4eade3241",
+      "name": "Huffman",
+      "price": "$3,543.38",
+      "picture": "https://placedog.net/500/280/?id=55",
+      "age": 6,
+      "eyeColor": "yellow",
+      "gender": "male",
+      "tags": [
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e85b81c46f1f289b7c",
+      "name": "Johanna",
+      "price": "$3,786.35",
+      "picture": "https://placedog.net/500/280/?id=56",
+      "age": 1,
+      "eyeColor": "green",
+      "gender": "female",
+      "tags": [
+        "agitated"
+      ]
+    },
+    {
+      "_id": "646f62e835ffc72c31a54f25",
+      "name": "Diane",
+      "price": "$2,232.00",
+      "picture": "https://placedog.net/500/280/?id=57",
+      "age": 1,
+      "eyeColor": "green",
+      "gender": "female",
+      "tags": [
+        "shy"
+      ]
+    },
+    {
+      "_id": "646f62e8938bfc3f24f91612",
+      "name": "Mcgowan",
+      "price": "$2,515.44",
+      "picture": "https://placedog.net/500/280/?id=58",
+      "age": 10,
+      "eyeColor": "green",
+      "gender": "male",
+      "tags": [
+        "fearful",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e80abcb3db4fb295ee",
+      "name": "Jodi",
+      "price": "$3,525.66",
+      "picture": "https://placedog.net/500/280/?id=59",
+      "age": 14,
+      "eyeColor": "blue",
+      "gender": "female",
+      "tags": [
+        "agitated",
+        "aggressive",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8ec34ded99ed01d32",
+      "name": "Tracie",
+      "price": "$3,068.60",
+      "picture": "https://placedog.net/500/280/?id=60",
+      "age": 9,
+      "eyeColor": "amber",
+      "gender": "female",
+      "tags": [
+        "agitated",
+        "fearful",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e8e822416f0d08c7d0",
+      "name": "Beatrice",
+      "price": "$3,508.87",
+      "picture": "https://placedog.net/500/280/?id=61",
+      "age": 13,
+      "eyeColor": "yellow",
+      "gender": "female",
+      "tags": []
+    },
+    {
+      "_id": "646f62e871536283095e0844",
+      "name": "Janette",
+      "price": "$3,955.41",
+      "picture": "https://placedog.net/500/280/?id=62",
+      "age": 11,
+      "eyeColor": "blue",
+      "gender": "female",
+      "tags": [
+        "calm"
+      ]
+    },
+    {
+      "_id": "646f62e8208098fb6e4add48",
+      "name": "Kidd",
+      "price": "$2,281.49",
+      "picture": "https://placedog.net/500/280/?id=63",
+      "age": 8,
+      "eyeColor": "hazel",
+      "gender": "male",
+      "tags": [
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e828fac4eed713ea9b",
+      "name": "Mcmillan",
+      "price": "$3,380.93",
+      "picture": "https://placedog.net/500/280/?id=64",
+      "age": 13,
+      "eyeColor": "amber",
+      "gender": "male",
+      "tags": [
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8eede4198aae59d71",
+      "name": "Jenny",
+      "price": "$2,753.57",
+      "picture": "https://placedog.net/500/280/?id=65",
+      "age": 14,
+      "eyeColor": "amber",
+      "gender": "female",
+      "tags": [
+        "shy",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e819a14af39c4a1fa5",
+      "name": "Mann",
+      "price": "$1,578.91",
+      "picture": "https://placedog.net/500/280/?id=66",
+      "age": 12,
+      "eyeColor": "amber",
+      "gender": "male",
+      "tags": [
+        "calm",
+        "fearful",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e879560f717589caa9",
+      "name": "Blackwell",
+      "price": "$2,559.40",
+      "picture": "https://placedog.net/500/280/?id=67",
+      "age": 7,
+      "eyeColor": "yellow",
+      "gender": "male",
+      "tags": [
+        "calm",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e80073d39181d1b33f",
+      "name": "Camille",
+      "price": "$2,053.28",
+      "picture": "https://placedog.net/500/280/?id=68",
+      "age": 3,
+      "eyeColor": "blue",
+      "gender": "female",
+      "tags": [
+        "fearful",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8bd82e3e8b285ea43",
+      "name": "Mallory",
+      "price": "$1,246.99",
+      "picture": "https://placedog.net/500/280/?id=69",
+      "age": 7,
+      "eyeColor": "green",
+      "gender": "female",
+      "tags": []
+    },
+    {
+      "_id": "646f62e8359dcf67e6d20d39",
+      "name": "Lambert",
+      "price": "$2,247.25",
+      "picture": "https://placedog.net/500/280/?id=70",
+      "age": 10,
+      "eyeColor": "green",
+      "gender": "male",
+      "tags": [
+        "agitated",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8a291535dfa1dde25",
+      "name": "Trisha",
+      "price": "$2,129.07",
+      "picture": "https://placedog.net/500/280/?id=71",
+      "age": 15,
+      "eyeColor": "green",
+      "gender": "female",
+      "tags": [
+        "agitated",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e8aa3f515ac1217312",
+      "name": "Amparo",
+      "price": "$2,539.15",
+      "picture": "https://placedog.net/500/280/?id=72",
+      "age": 2,
+      "eyeColor": "yellow",
+      "gender": "female",
+      "tags": [
+        "fearful"
+      ]
+    },
+    {
+      "_id": "646f62e89235886b985d817f",
+      "name": "Araceli",
+      "price": "$3,023.75",
+      "picture": "https://placedog.net/500/280/?id=73",
+      "age": 9,
+      "eyeColor": "green",
+      "gender": "female",
+      "tags": [
+        "agitated"
+      ]
+    },
+    {
+      "_id": "646f62e8b92d0a8ce3fe1d30",
+      "name": "Rosemary",
+      "price": "$3,726.26",
+      "picture": "https://placedog.net/500/280/?id=74",
+      "age": 6,
+      "eyeColor": "blue",
+      "gender": "female",
+      "tags": [
+        "agitated",
+        "fearful"
+      ]
+    },
+    {
+      "_id": "646f62e81229075aaa98a9fd",
+      "name": "Price",
+      "price": "$3,414.18",
+      "picture": "https://placedog.net/500/280/?id=75",
+      "age": 14,
+      "eyeColor": "amber",
+      "gender": "male",
+      "tags": [
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e84e83a88d58096fda",
+      "name": "Fowler",
+      "price": "$1,711.73",
+      "picture": "https://placedog.net/500/280/?id=76",
+      "age": 7,
+      "eyeColor": "brown",
+      "gender": "male",
+      "tags": [
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e88186bcd449efc90a",
+      "name": "Merrill",
+      "price": "$2,877.98",
+      "picture": "https://placedog.net/500/280/?id=77",
+      "age": 2,
+      "eyeColor": "hazel",
+      "gender": "male",
+      "tags": []
+    },
+    {
+      "_id": "646f62e890f54030856bc89d",
+      "name": "Boyle",
+      "price": "$3,511.40",
+      "picture": "https://placedog.net/500/280/?id=78",
+      "age": 9,
+      "eyeColor": "brown",
+      "gender": "male",
+      "tags": [
+        "fearful"
+      ]
+    },
+    {
+      "_id": "646f62e88efa085edb46bb9e",
+      "name": "Latonya",
+      "price": "$1,617.23",
+      "picture": "https://placedog.net/500/280/?id=79",
+      "age": 8,
+      "eyeColor": "hazel",
+      "gender": "female",
+      "tags": []
+    },
+    {
+      "_id": "646f62e835ac2d1cbebcc525",
+      "name": "Erika",
+      "price": "$3,367.09",
+      "picture": "https://placedog.net/500/280/?id=80",
+      "age": 15,
+      "eyeColor": "brown",
+      "gender": "female",
+      "tags": [
+        "agitated",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e89f186db21c073bcd",
+      "name": "Kelley",
+      "price": "$1,699.37",
+      "picture": "https://placedog.net/500/280/?id=81",
+      "age": 7,
+      "eyeColor": "yellow",
+      "gender": "female",
+      "tags": [
+        "shy"
+      ]
+    },
+    {
+      "_id": "646f62e8ee68223c713513fa",
+      "name": "Alexander",
+      "price": "$1,039.05",
+      "picture": "https://placedog.net/500/280/?id=82",
+      "age": 13,
+      "eyeColor": "amber",
+      "gender": "male",
+      "tags": []
+    },
+    {
+      "_id": "646f62e873735b04382131cc",
+      "name": "Latasha",
+      "price": "$3,595.67",
+      "picture": "https://placedog.net/500/280/?id=83",
+      "age": 1,
+      "eyeColor": "brown",
+      "gender": "female",
+      "tags": []
+    },
+    {
+      "_id": "646f62e84aef18b78d8678c9",
+      "name": "Good",
+      "price": "$1,701.92",
+      "picture": "https://placedog.net/500/280/?id=84",
+      "age": 14,
+      "eyeColor": "hazel",
+      "gender": "male",
+      "tags": []
+    },
+    {
+      "_id": "646f62e8c764b44c1e53d19f",
+      "name": "Faye",
+      "price": "$2,198.95",
+      "picture": "https://placedog.net/500/280/?id=85",
+      "age": 6,
+      "eyeColor": "blue",
+      "gender": "female",
+      "tags": [
+        "calm"
+      ]
+    },
+    {
+      "_id": "646f62e8f6b87e4b154d7e5c",
+      "name": "Stafford",
+      "price": "$3,278.02",
+      "picture": "https://placedog.net/500/280/?id=86",
+      "age": 9,
+      "eyeColor": "blue",
+      "gender": "male",
+      "tags": [
+        "agitated"
+      ]
+    },
+    {
+      "_id": "646f62e862018c1b328520e8",
+      "name": "Catherine",
+      "price": "$2,186.50",
+      "picture": "https://placedog.net/500/280/?id=87",
+      "age": 11,
+      "eyeColor": "green",
+      "gender": "female",
+      "tags": [
+        "courageous"
+      ]
+    },
+    {
+      "_id": "646f62e88de8907b079572a3",
+      "name": "Tara",
+      "price": "$2,104.86",
+      "picture": "https://placedog.net/500/280/?id=88",
+      "age": 7,
+      "eyeColor": "green",
+      "gender": "female",
+      "tags": []
+    },
+    {
+      "_id": "646f62e879a7e20d1432e5fc",
+      "name": "Winnie",
+      "price": "$1,979.04",
+      "picture": "https://placedog.net/500/280/?id=89",
+      "age": 13,
+      "eyeColor": "amber",
+      "gender": "female",
+      "tags": []
+    },
+    {
+      "_id": "646f62e84ef62c21871a3b7b",
+      "name": "Diana",
+      "price": "$2,711.28",
+      "picture": "https://placedog.net/500/280/?id=90",
+      "age": 8,
+      "eyeColor": "amber",
+      "gender": "female",
+      "tags": [
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e864254163101f893a",
+      "name": "Casandra",
+      "price": "$2,781.68",
+      "picture": "https://placedog.net/500/280/?id=91",
+      "age": 1,
+      "eyeColor": "hazel",
+      "gender": "female",
+      "tags": []
+    },
+    {
+      "_id": "646f62e8dcba556050c41f11",
+      "name": "Margarita",
+      "price": "$3,062.34",
+      "picture": "https://placedog.net/500/280/?id=92",
+      "age": 11,
+      "eyeColor": "blue",
+      "gender": "female",
+      "tags": [
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e84e82846b0bd52dc3",
+      "name": "Ramsey",
+      "price": "$1,933.69",
+      "picture": "https://placedog.net/500/280/?id=93",
+      "age": 14,
+      "eyeColor": "green",
+      "gender": "male",
+      "tags": [
+        "agitated",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8e9b4139ec6e67d43",
+      "name": "Gladys",
+      "price": "$2,604.95",
+      "picture": "https://placedog.net/500/280/?id=94",
+      "age": 12,
+      "eyeColor": "hazel",
+      "gender": "female",
+      "tags": [
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e824851e24ae7cfaf3",
+      "name": "Chaney",
+      "price": "$1,846.07",
+      "picture": "https://placedog.net/500/280/?id=95",
+      "age": 7,
+      "eyeColor": "blue",
+      "gender": "male",
+      "tags": []
+    },
+    {
+      "_id": "646f62e84594ce0bcadadce9",
+      "name": "Holden",
+      "price": "$1,412.21",
+      "picture": "https://placedog.net/500/280/?id=96",
+      "age": 12,
+      "eyeColor": "brown",
+      "gender": "male",
+      "tags": [
+        "agitated",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e80e8961daf95847b5",
+      "name": "Eaton",
+      "price": "$2,424.38",
+      "picture": "https://placedog.net/500/280/?id=97",
+      "age": 2,
+      "eyeColor": "yellow",
+      "gender": "male",
+      "tags": []
+    },
+    {
+      "_id": "646f62e858160c5300cf8548",
+      "name": "Estelle",
+      "price": "$3,721.37",
+      "picture": "https://placedog.net/500/280/?id=98",
+      "age": 14,
+      "eyeColor": "brown",
+      "gender": "female",
+      "tags": [
+        "agitated",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8b4c775bb1f3f02ec",
+      "name": "Robyn",
+      "price": "$2,271.21",
+      "picture": "https://placedog.net/500/280/?id=99",
+      "age": 13,
+      "eyeColor": "yellow",
+      "gender": "female",
+      "tags": [
+        "calm",
+        "fearful",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e81e5846f92bb6ec8e",
+      "name": "Pam",
+      "price": "$3,078.47",
+      "picture": "https://placedog.net/500/280/?id=100",
+      "age": 9,
+      "eyeColor": "yellow",
+      "gender": "female",
+      "tags": [
+        "agitated",
+        "courageous",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e8f9a2872f320e09ba",
+      "name": "Morin",
+      "price": "$3,178.23",
+      "picture": "https://placedog.net/500/280/?id=101",
+      "age": 2,
+      "eyeColor": "yellow",
+      "gender": "male",
+      "tags": [
+        "courageous"
+      ]
+    },
+    {
+      "_id": "646f62e8596b25e091b28f1a",
+      "name": "Inez",
+      "price": "$2,657.83",
+      "picture": "https://placedog.net/500/280/?id=102",
+      "age": 11,
+      "eyeColor": "yellow",
+      "gender": "female",
+      "tags": [
+        "agitated"
+      ]
+    },
+    {
+      "_id": "646f62e871d81e2542faa3ff",
+      "name": "Osborne",
+      "price": "$1,610.67",
+      "picture": "https://placedog.net/500/280/?id=103",
+      "age": 13,
+      "eyeColor": "green",
+      "gender": "male",
+      "tags": [
+        "courageous"
+      ]
+    },
+    {
+      "_id": "646f62e806d25b5a3d12405a",
+      "name": "Hensley",
+      "price": "$1,238.42",
+      "picture": "https://placedog.net/500/280/?id=104",
+      "age": 9,
+      "eyeColor": "yellow",
+      "gender": "male",
+      "tags": [
+        "aggressive"
+      ]
+    },
+    {
+      "_id": "646f62e8e171f4c33b3705b0",
+      "name": "Lacey",
+      "price": "$1,904.50",
+      "picture": "https://placedog.net/500/280/?id=105",
+      "age": 10,
+      "eyeColor": "yellow",
+      "gender": "female",
+      "tags": [
+        "calm"
+      ]
+    },
+    {
+      "_id": "646f62e8cb424b966dcb03e7",
+      "name": "Josie",
+      "price": "$2,683.60",
+      "picture": "https://placedog.net/500/280/?id=106",
+      "age": 9,
+      "eyeColor": "blue",
+      "gender": "female",
+      "tags": [
+        "calm",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e81b8e3ebea266db8e",
+      "name": "Sweet",
+      "price": "$2,771.61",
+      "picture": "https://placedog.net/500/280/?id=107",
+      "age": 2,
+      "eyeColor": "hazel",
+      "gender": "male",
+      "tags": []
+    },
+    {
+      "_id": "646f62e88458f78ad564c7af",
+      "name": "Rose",
+      "price": "$3,215.01",
+      "picture": "https://placedog.net/500/280/?id=108",
+      "age": 1,
+      "eyeColor": "blue",
+      "gender": "female",
+      "tags": [
+        "calm",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8745195d7d389e1d8",
+      "name": "Whitley",
+      "price": "$1,318.41",
+      "picture": "https://placedog.net/500/280/?id=109",
+      "age": 9,
+      "eyeColor": "yellow",
+      "gender": "male",
+      "tags": [
+        "shy"
+      ]
+    },
+    {
+      "_id": "646f62e84a1db075a64828fd",
+      "name": "Dorthy",
+      "price": "$1,138.55",
+      "picture": "https://placedog.net/500/280/?id=110",
+      "age": 4,
+      "eyeColor": "yellow",
+      "gender": "female",
+      "tags": [
+        "calm",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e8251b3bdec0ba51c8",
+      "name": "Kimberley",
+      "price": "$2,730.20",
+      "picture": "https://placedog.net/500/280/?id=111",
+      "age": 7,
+      "eyeColor": "green",
+      "gender": "female",
+      "tags": [
+        "calm",
+        "shy"
+      ]
+    },
+    {
+      "_id": "646f62e88ef89ae0d5f4443b",
+      "name": "Mullen",
+      "price": "$1,016.36",
+      "picture": "https://placedog.net/500/280/?id=112",
+      "age": 1,
+      "eyeColor": "brown",
+      "gender": "male",
+      "tags": [
+        "shy",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e82eb708cb1e37c489",
+      "name": "Chasity",
+      "price": "$1,811.92",
+      "picture": "https://placedog.net/500/280/?id=113",
+      "age": 15,
+      "eyeColor": "hazel",
+      "gender": "female",
+      "tags": [
+        "calm",
+        "aggressive",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e81ace0e90ded994ef",
+      "name": "Anderson",
+      "price": "$1,655.47",
+      "picture": "https://placedog.net/500/280/?id=114",
+      "age": 11,
+      "eyeColor": "brown",
+      "gender": "male",
+      "tags": []
+    },
+    {
+      "_id": "646f62e88e02902cb4c333cc",
+      "name": "Nichole",
+      "price": "$3,499.85",
+      "picture": "https://placedog.net/500/280/?id=115",
+      "age": 1,
+      "eyeColor": "green",
+      "gender": "female",
+      "tags": [
+        "aggressive",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8dc6734f59a0bbb24",
+      "name": "Petty",
+      "price": "$1,918.85",
+      "picture": "https://placedog.net/500/280/?id=116",
+      "age": 7,
+      "eyeColor": "brown",
+      "gender": "male",
+      "tags": [
+        "calm",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e832690aa8cae7fef3",
+      "name": "Arnold",
+      "price": "$1,742.25",
+      "picture": "https://placedog.net/500/280/?id=117",
+      "age": 10,
+      "eyeColor": "hazel",
+      "gender": "male",
+      "tags": [
+        "shy",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e8fc37b054e3d36e57",
+      "name": "Mcdonald",
+      "price": "$1,121.21",
+      "picture": "https://placedog.net/500/280/?id=118",
+      "age": 7,
+      "eyeColor": "brown",
+      "gender": "male",
+      "tags": [
+        "courageous"
+      ]
+    },
+    {
+      "_id": "646f62e8eecc017e53fde4fb",
+      "name": "Bates",
+      "price": "$3,866.96",
+      "picture": "https://placedog.net/500/280/?id=119",
+      "age": 7,
+      "eyeColor": "yellow",
+      "gender": "male",
+      "tags": [
+        "aggressive",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e898c2671d62ac7d0c",
+      "name": "Workman",
+      "price": "$2,459.26",
+      "picture": "https://placedog.net/500/280/?id=120",
+      "age": 15,
+      "eyeColor": "yellow",
+      "gender": "male",
+      "tags": [
+        "calm"
+      ]
+    },
+    {
+      "_id": "646f62e867dcea2fb915fd35",
+      "name": "Diaz",
+      "price": "$3,516.90",
+      "picture": "https://placedog.net/500/280/?id=121",
+      "age": 8,
+      "eyeColor": "brown",
+      "gender": "male",
+      "tags": [
+        "calm",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e8a408de46672d5932",
+      "name": "Florence",
+      "price": "$1,202.57",
+      "picture": "https://placedog.net/500/280/?id=122",
+      "age": 14,
+      "eyeColor": "yellow",
+      "gender": "female",
+      "tags": [
+        "calm",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8c367f1fa2942d6fe",
+      "name": "Terrie",
+      "price": "$3,346.62",
+      "picture": "https://placedog.net/500/280/?id=123",
+      "age": 3,
+      "eyeColor": "green",
+      "gender": "female",
+      "tags": [
+        "agitated"
+      ]
+    },
+    {
+      "_id": "646f62e87e7022fd1087d015",
+      "name": "Madeleine",
+      "price": "$1,265.99",
+      "picture": "https://placedog.net/500/280/?id=124",
+      "age": 7,
+      "eyeColor": "green",
+      "gender": "female",
+      "tags": [
+        "shy"
+      ]
+    },
+    {
+      "_id": "646f62e81e3f74460eff27a4",
+      "name": "Jeannie",
+      "price": "$1,870.37",
+      "picture": "https://placedog.net/500/280/?id=125",
+      "age": 2,
+      "eyeColor": "yellow",
+      "gender": "female",
+      "tags": [
+        "calm",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e8b760178e50ac2027",
+      "name": "Amalia",
+      "price": "$1,423.89",
+      "picture": "https://placedog.net/500/280/?id=126",
+      "age": 10,
+      "eyeColor": "blue",
+      "gender": "female",
+      "tags": [
+        "calm",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e8c758b54e6a54f8fa",
+      "name": "Ana",
+      "price": "$3,110.91",
+      "picture": "https://placedog.net/500/280/?id=127",
+      "age": 14,
+      "eyeColor": "brown",
+      "gender": "female",
+      "tags": [
+        "shy",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e862db5cea32432d0c",
+      "name": "Miranda",
+      "price": "$3,954.76",
+      "picture": "https://placedog.net/500/280/?id=128",
+      "age": 15,
+      "eyeColor": "green",
+      "gender": "male",
+      "tags": [
+        "agitated",
+        "aggressive"
+      ]
+    },
+    {
+      "_id": "646f62e829fbdb2546dc8cd0",
+      "name": "Cash",
+      "price": "$1,587.41",
+      "picture": "https://placedog.net/500/280/?id=129",
+      "age": 15,
+      "eyeColor": "blue",
+      "gender": "male",
+      "tags": [
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e811e41986cae23988",
+      "name": "Maryann",
+      "price": "$2,797.43",
+      "picture": "https://placedog.net/500/280/?id=130",
+      "age": 9,
+      "eyeColor": "amber",
+      "gender": "female",
+      "tags": [
+        "calm",
+        "shy"
+      ]
+    },
+    {
+      "_id": "646f62e8008ad159caa0bd6e",
+      "name": "Ashlee",
+      "price": "$3,519.47",
+      "picture": "https://placedog.net/500/280/?id=131",
+      "age": 9,
+      "eyeColor": "green",
+      "gender": "female",
+      "tags": [
+        "shy"
+      ]
+    },
+    {
+      "_id": "646f62e82fa1410d81c712b6",
+      "name": "Rivera",
+      "price": "$2,860.70",
+      "picture": "https://placedog.net/500/280/?id=132",
+      "age": 10,
+      "eyeColor": "blue",
+      "gender": "male",
+      "tags": [
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e812581969637a8689",
+      "name": "Pansy",
+      "price": "$3,232.94",
+      "picture": "https://placedog.net/500/280/?id=133",
+      "age": 6,
+      "eyeColor": "brown",
+      "gender": "female",
+      "tags": []
+    },
+    {
+      "_id": "646f62e8fee827957e291fdb",
+      "name": "Roman",
+      "price": "$2,602.25",
+      "picture": "https://placedog.net/500/280/?id=134",
+      "age": 5,
+      "eyeColor": "hazel",
+      "gender": "male",
+      "tags": [
+        "agitated"
+      ]
+    },
+    {
+      "_id": "646f62e80825b39cf147557f",
+      "name": "Macdonald",
+      "price": "$3,332.91",
+      "picture": "https://placedog.net/500/280/?id=135",
+      "age": 7,
+      "eyeColor": "green",
+      "gender": "male",
+      "tags": [
+        "agitated",
+        "fearful"
+      ]
+    },
+    {
+      "_id": "646f62e8cb6be8cf9b0d7b2e",
+      "name": "Laverne",
+      "price": "$2,212.66",
+      "picture": "https://placedog.net/500/280/?id=136",
+      "age": 13,
+      "eyeColor": "green",
+      "gender": "female",
+      "tags": [
+        "agitated",
+        "shy",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8fbbccf4b77b1aef8",
+      "name": "Parker",
+      "price": "$2,285.93",
+      "picture": "https://placedog.net/500/280/?id=137",
+      "age": 10,
+      "eyeColor": "hazel",
+      "gender": "male",
+      "tags": [
+        "agitated",
+        "shy"
+      ]
+    },
+    {
+      "_id": "646f62e8ecc807df8bd7bbdf",
+      "name": "Misty",
+      "price": "$3,678.16",
+      "picture": "https://placedog.net/500/280/?id=138",
+      "age": 1,
+      "eyeColor": "hazel",
+      "gender": "female",
+      "tags": [
+        "calm",
+        "courageous",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e866a1e13b1a68de04",
+      "name": "Theresa",
+      "price": "$3,875.03",
+      "picture": "https://placedog.net/500/280/?id=139",
+      "age": 12,
+      "eyeColor": "hazel",
+      "gender": "female",
+      "tags": [
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e87871cddcc5766db5",
+      "name": "Sharlene",
+      "price": "$1,924.01",
+      "picture": "https://placedog.net/500/280/?id=140",
+      "age": 1,
+      "eyeColor": "yellow",
+      "gender": "female",
+      "tags": [
+        "agitated"
+      ]
+    },
+    {
+      "_id": "646f62e8410b6658cd0315c6",
+      "name": "Eva",
+      "price": "$3,475.98",
+      "picture": "https://placedog.net/500/280/?id=141",
+      "age": 6,
+      "eyeColor": "yellow",
+      "gender": "female",
+      "tags": []
+    },
+    {
+      "_id": "646f62e884b228fa0811a285",
+      "name": "Sexton",
+      "price": "$2,211.21",
+      "picture": "https://placedog.net/500/280/?id=142",
+      "age": 11,
+      "eyeColor": "blue",
+      "gender": "male",
+      "tags": [
+        "fearful",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e8325d0449e90ce685",
+      "name": "Amanda",
+      "price": "$2,508.17",
+      "picture": "https://placedog.net/500/280/?id=143",
+      "age": 9,
+      "eyeColor": "hazel",
+      "gender": "female",
+      "tags": [
+        "fearful"
+      ]
+    },
+    {
+      "_id": "646f62e80095e725e6d009e6",
+      "name": "Lavonne",
+      "price": "$2,000.60",
+      "picture": "https://placedog.net/500/280/?id=144",
+      "age": 8,
+      "eyeColor": "blue",
+      "gender": "female",
+      "tags": [
+        "calm"
+      ]
+    },
+    {
+      "_id": "646f62e86d67c94129eec258",
+      "name": "Vilma",
+      "price": "$2,832.41",
+      "picture": "https://placedog.net/500/280/?id=145",
+      "age": 6,
+      "eyeColor": "amber",
+      "gender": "female",
+      "tags": [
+        "shy"
+      ]
+    },
+    {
+      "_id": "646f62e8a847a8eb202a6be5",
+      "name": "Simmons",
+      "price": "$1,753.56",
+      "picture": "https://placedog.net/500/280/?id=146",
+      "age": 11,
+      "eyeColor": "hazel",
+      "gender": "male",
+      "tags": [
+        "fearful",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8e51dd498c36a62f1",
+      "name": "Priscilla",
+      "price": "$2,059.03",
+      "picture": "https://placedog.net/500/280/?id=147",
+      "age": 4,
+      "eyeColor": "green",
+      "gender": "female",
+      "tags": [
+        "fearful"
+      ]
+    },
+    {
+      "_id": "646f62e864ad258375e100fe",
+      "name": "Hamilton",
+      "price": "$1,141.37",
+      "picture": "https://placedog.net/500/280/?id=148",
+      "age": 9,
+      "eyeColor": "yellow",
+      "gender": "male",
+      "tags": [
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8c39ce1a3e71688d9",
+      "name": "Francis",
+      "price": "$3,280.81",
+      "picture": "https://placedog.net/500/280/?id=149",
+      "age": 15,
+      "eyeColor": "amber",
+      "gender": "female",
+      "tags": [
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e85cffbef61fcb84b0",
+      "name": "Myra",
+      "price": "$3,588.67",
+      "picture": "https://placedog.net/500/280/?id=150",
+      "age": 11,
+      "eyeColor": "yellow",
+      "gender": "female",
+      "tags": [
+        "calm"
+      ]
+    },
+    {
+      "_id": "646f62e8fb80d2173e784457",
+      "name": "Bond",
+      "price": "$1,840.64",
+      "picture": "https://placedog.net/500/280/?id=151",
+      "age": 15,
+      "eyeColor": "amber",
+      "gender": "male",
+      "tags": [
+        "calm",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e88694e2ce37fc2471",
+      "name": "Snider",
+      "price": "$3,829.94",
+      "picture": "https://placedog.net/500/280/?id=152",
+      "age": 5,
+      "eyeColor": "yellow",
+      "gender": "male",
+      "tags": [
+        "calm"
+      ]
+    },
+    {
+      "_id": "646f62e860872b5f1a8030b9",
+      "name": "Chandler",
+      "price": "$2,690.19",
+      "picture": "https://placedog.net/500/280/?id=153",
+      "age": 7,
+      "eyeColor": "blue",
+      "gender": "male",
+      "tags": [
+        "calm",
+        "courageous"
+      ]
+    },
+    {
+      "_id": "646f62e820804e21f42151cb",
+      "name": "Ericka",
+      "price": "$2,512.77",
+      "picture": "https://placedog.net/500/280/?id=154",
+      "age": 15,
+      "eyeColor": "yellow",
+      "gender": "female",
+      "tags": []
+    },
+    {
+      "_id": "646f62e8a56a15dbf78be978",
+      "name": "Lourdes",
+      "price": "$2,611.66",
+      "picture": "https://placedog.net/500/280/?id=155",
+      "age": 13,
+      "eyeColor": "amber",
+      "gender": "female",
+      "tags": []
+    },
+    {
+      "_id": "646f62e8cf69a0837819789a",
+      "name": "Cantu",
+      "price": "$3,773.46",
+      "picture": "https://placedog.net/500/280/?id=156",
+      "age": 2,
+      "eyeColor": "green",
+      "gender": "male",
+      "tags": []
+    },
+    {
+      "_id": "646f62e857a8c6a8b6262929",
+      "name": "Alma",
+      "price": "$2,898.63",
+      "picture": "https://placedog.net/500/280/?id=157",
+      "age": 2,
+      "eyeColor": "brown",
+      "gender": "female",
+      "tags": [
+        "fearful",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8c2d429b90eb138c1",
+      "name": "Becker",
+      "price": "$1,181.65",
+      "picture": "https://placedog.net/500/280/?id=158",
+      "age": 1,
+      "eyeColor": "blue",
+      "gender": "male",
+      "tags": [
+        "calm",
+        "shy"
+      ]
+    },
+    {
+      "_id": "646f62e89b3eb2d99277acb2",
+      "name": "Frankie",
+      "price": "$2,098.41",
+      "picture": "https://placedog.net/500/280/?id=159",
+      "age": 12,
+      "eyeColor": "amber",
+      "gender": "female",
+      "tags": [
+        "calm"
+      ]
+    },
+    {
+      "_id": "646f62e8848843d5da8bbe95",
+      "name": "Reynolds",
+      "price": "$2,049.03",
+      "picture": "https://placedog.net/500/280/?id=160",
+      "age": 2,
+      "eyeColor": "brown",
+      "gender": "male",
+      "tags": [
+        "calm",
+        "courageous",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8f742cb4ebfd13cb8",
+      "name": "Polly",
+      "price": "$3,021.47",
+      "picture": "https://placedog.net/500/280/?id=161",
+      "age": 6,
+      "eyeColor": "hazel",
+      "gender": "female",
+      "tags": [
+        "courageous",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e861f7fb1458764ad8",
+      "name": "Jean",
+      "price": "$2,907.32",
+      "picture": "https://placedog.net/500/280/?id=162",
+      "age": 3,
+      "eyeColor": "hazel",
+      "gender": "female",
+      "tags": [
+        "calm",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8cf4b436a437e31d4",
+      "name": "Weaver",
+      "price": "$2,492.26",
+      "picture": "https://placedog.net/500/280/?id=163",
+      "age": 3,
+      "eyeColor": "yellow",
+      "gender": "male",
+      "tags": [
+        "calm",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e84e30b5013b8e0943",
+      "name": "Simone",
+      "price": "$3,379.67",
+      "picture": "https://placedog.net/500/280/?id=164",
+      "age": 8,
+      "eyeColor": "brown",
+      "gender": "female",
+      "tags": [
+        "shy"
+      ]
+    },
+    {
+      "_id": "646f62e89e868c8f5111b926",
+      "name": "Maude",
+      "price": "$1,046.22",
+      "picture": "https://placedog.net/500/280/?id=165",
+      "age": 8,
+      "eyeColor": "blue",
+      "gender": "female",
+      "tags": [
+        "calm",
+        "fearful",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e862b9a08f3fd9e66f",
+      "name": "Vargas",
+      "price": "$3,968.36",
+      "picture": "https://placedog.net/500/280/?id=166",
+      "age": 6,
+      "eyeColor": "blue",
+      "gender": "male",
+      "tags": []
+    },
+    {
+      "_id": "646f62e810e7c097a54b24e6",
+      "name": "Melinda",
+      "price": "$3,531.55",
+      "picture": "https://placedog.net/500/280/?id=167",
+      "age": 12,
+      "eyeColor": "green",
+      "gender": "female",
+      "tags": []
+    },
+    {
+      "_id": "646f62e8701c8d0254db088b",
+      "name": "Buck",
+      "price": "$1,588.99",
+      "picture": "https://placedog.net/500/280/?id=168",
+      "age": 15,
+      "eyeColor": "amber",
+      "gender": "male",
+      "tags": [
+        "fearful"
+      ]
+    },
+    {
+      "_id": "646f62e8e4d68ef149a68fcb",
+      "name": "Lucy",
+      "price": "$3,339.88",
+      "picture": "https://placedog.net/500/280/?id=169",
+      "age": 6,
+      "eyeColor": "yellow",
+      "gender": "female",
+      "tags": [
+        "calm",
+        "aggressive",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e88973498330aaea03",
+      "name": "Gwendolyn",
+      "price": "$1,591.21",
+      "picture": "https://placedog.net/500/280/?id=170",
+      "age": 13,
+      "eyeColor": "yellow",
+      "gender": "female",
+      "tags": []
+    },
+    {
+      "_id": "646f62e8cff63848fcc60108",
+      "name": "Beatriz",
+      "price": "$2,069.86",
+      "picture": "https://placedog.net/500/280/?id=171",
+      "age": 1,
+      "eyeColor": "amber",
+      "gender": "female",
+      "tags": [
+        "shy",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8d9d6742d59a31124",
+      "name": "Lynda",
+      "price": "$1,874.17",
+      "picture": "https://placedog.net/500/280/?id=172",
+      "age": 11,
+      "eyeColor": "amber",
+      "gender": "female",
+      "tags": [
+        "agitated",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e899eba57ae396df99",
+      "name": "Duke",
+      "price": "$3,011.85",
+      "picture": "https://placedog.net/500/280/?id=173",
+      "age": 15,
+      "eyeColor": "brown",
+      "gender": "male",
+      "tags": [
+        "calm",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e851ef26398db59fb9",
+      "name": "Velazquez",
+      "price": "$3,224.94",
+      "picture": "https://placedog.net/500/280/?id=174",
+      "age": 13,
+      "eyeColor": "blue",
+      "gender": "male",
+      "tags": [
+        "courageous"
+      ]
+    },
+    {
+      "_id": "646f62e83d5f27533ec0e72d",
+      "name": "Snow",
+      "price": "$2,132.02",
+      "picture": "https://placedog.net/500/280/?id=175",
+      "age": 7,
+      "eyeColor": "amber",
+      "gender": "male",
+      "tags": [
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e8bd36f91a8ea6c421",
+      "name": "Beverly",
+      "price": "$1,481.10",
+      "picture": "https://placedog.net/500/280/?id=176",
+      "age": 12,
+      "eyeColor": "green",
+      "gender": "female",
+      "tags": [
+        "calm",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e87cacd1a3a16b87fb",
+      "name": "Elliott",
+      "price": "$1,167.67",
+      "picture": "https://placedog.net/500/280/?id=177",
+      "age": 14,
+      "eyeColor": "green",
+      "gender": "male",
+      "tags": [
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8e989b79c3a9fdfcb",
+      "name": "Watson",
+      "price": "$3,396.75",
+      "picture": "https://placedog.net/500/280/?id=178",
+      "age": 3,
+      "eyeColor": "blue",
+      "gender": "male",
+      "tags": [
+        "calm",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e8b299e95ac3d82613",
+      "name": "Russo",
+      "price": "$3,094.70",
+      "picture": "https://placedog.net/500/280/?id=179",
+      "age": 8,
+      "eyeColor": "amber",
+      "gender": "male",
+      "tags": [
+        "aggressive"
+      ]
+    },
+    {
+      "_id": "646f62e820b7a258cd6c0d89",
+      "name": "Mitchell",
+      "price": "$3,829.95",
+      "picture": "https://placedog.net/500/280/?id=180",
+      "age": 9,
+      "eyeColor": "yellow",
+      "gender": "male",
+      "tags": [
+        "calm",
+        "aggressive",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e882bf5ac4a6578abc",
+      "name": "Janice",
+      "price": "$2,549.84",
+      "picture": "https://placedog.net/500/280/?id=181",
+      "age": 15,
+      "eyeColor": "brown",
+      "gender": "female",
+      "tags": [
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e8147206b216b44d03",
+      "name": "Angel",
+      "price": "$2,204.17",
+      "picture": "https://placedog.net/500/280/?id=182",
+      "age": 15,
+      "eyeColor": "amber",
+      "gender": "female",
+      "tags": [
+        "fearful"
+      ]
+    },
+    {
+      "_id": "646f62e8fa7812469e11ba28",
+      "name": "Taylor",
+      "price": "$2,830.39",
+      "picture": "https://placedog.net/500/280/?id=183",
+      "age": 1,
+      "eyeColor": "hazel",
+      "gender": "male",
+      "tags": [
+        "agitated",
+        "fearful",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e80638d3972de7ba58",
+      "name": "Lucas",
+      "price": "$3,103.58",
+      "picture": "https://placedog.net/500/280/?id=184",
+      "age": 5,
+      "eyeColor": "green",
+      "gender": "male",
+      "tags": [
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8bdb29a00683685e8",
+      "name": "Mattie",
+      "price": "$2,074.40",
+      "picture": "https://placedog.net/500/280/?id=185",
+      "age": 8,
+      "eyeColor": "brown",
+      "gender": "female",
+      "tags": [
+        "agitated"
+      ]
+    },
+    {
+      "_id": "646f62e8fe41788d22cc58ac",
+      "name": "Sherri",
+      "price": "$3,936.67",
+      "picture": "https://placedog.net/500/280/?id=186",
+      "age": 3,
+      "eyeColor": "amber",
+      "gender": "female",
+      "tags": []
+    },
+    {
+      "_id": "646f62e8c0ec5dc6ca4bcbf0",
+      "name": "Valentine",
+      "price": "$2,850.52",
+      "picture": "https://placedog.net/500/280/?id=187",
+      "age": 8,
+      "eyeColor": "hazel",
+      "gender": "male",
+      "tags": [
+        "calm",
+        "fearful",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e872d216d7c3bc3a98",
+      "name": "Daphne",
+      "price": "$3,758.79",
+      "picture": "https://placedog.net/500/280/?id=188",
+      "age": 12,
+      "eyeColor": "blue",
+      "gender": "female",
+      "tags": [
+        "calm",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e88b2efea6845728e6",
+      "name": "Oneil",
+      "price": "$3,827.07",
+      "picture": "https://placedog.net/500/280/?id=189",
+      "age": 14,
+      "eyeColor": "brown",
+      "gender": "male",
+      "tags": []
+    },
+    {
+      "_id": "646f62e8789329a14aca2c03",
+      "name": "Wilcox",
+      "price": "$2,311.54",
+      "picture": "https://placedog.net/500/280/?id=190",
+      "age": 3,
+      "eyeColor": "amber",
+      "gender": "male",
+      "tags": [
+        "calm",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e88479c5883429c1e7",
+      "name": "Lauri",
+      "price": "$1,091.76",
+      "picture": "https://placedog.net/500/280/?id=191",
+      "age": 13,
+      "eyeColor": "yellow",
+      "gender": "female",
+      "tags": [
+        "agitated",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8e2d96ede7465a5f1",
+      "name": "Hunter",
+      "price": "$1,093.53",
+      "picture": "https://placedog.net/500/280/?id=192",
+      "age": 1,
+      "eyeColor": "yellow",
+      "gender": "male",
+      "tags": [
+        "calm",
+        "courageous"
+      ]
+    },
+    {
+      "_id": "646f62e8e98c2d92f61e1ef6",
+      "name": "Lori",
+      "price": "$1,872.28",
+      "picture": "https://placedog.net/500/280/?id=193",
+      "age": 8,
+      "eyeColor": "hazel",
+      "gender": "female",
+      "tags": [
+        "aggressive",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e8d68f546dfa1e4682",
+      "name": "Calhoun",
+      "price": "$3,559.12",
+      "picture": "https://placedog.net/500/280/?id=194",
+      "age": 15,
+      "eyeColor": "hazel",
+      "gender": "male",
+      "tags": []
+    },
+    {
+      "_id": "646f62e8362ec3676e3253d8",
+      "name": "Hardy",
+      "price": "$2,455.09",
+      "picture": "https://placedog.net/500/280/?id=195",
+      "age": 15,
+      "eyeColor": "amber",
+      "gender": "male",
+      "tags": [
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e8ad4fc9bc2c688d67",
+      "name": "Hurst",
+      "price": "$1,077.22",
+      "picture": "https://placedog.net/500/280/?id=196",
+      "age": 1,
+      "eyeColor": "green",
+      "gender": "male",
+      "tags": [
+        "courageous"
+      ]
+    },
+    {
+      "_id": "646f62e828e87f42889a49ff",
+      "name": "Leon",
+      "price": "$3,628.33",
+      "picture": "https://placedog.net/500/280/?id=197",
+      "age": 1,
+      "eyeColor": "hazel",
+      "gender": "male",
+      "tags": [
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e82453448d0d73f51e",
+      "name": "Donna",
+      "price": "$1,556.07",
+      "picture": "https://placedog.net/500/280/?id=198",
+      "age": 7,
+      "eyeColor": "amber",
+      "gender": "female",
+      "tags": [
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e8720acb1cef01a187",
+      "name": "Benita",
+      "price": "$2,827.61",
+      "picture": "https://placedog.net/500/280/?id=199",
+      "age": 13,
+      "eyeColor": "amber",
+      "gender": "female",
+      "tags": [
+        "agitated",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e8b6c651c71a8d7449",
+      "name": "Clark",
+      "price": "$2,996.03",
+      "picture": "https://placedog.net/500/280/?id=200",
+      "age": 14,
+      "eyeColor": "yellow",
+      "gender": "male",
+      "tags": [
+        "agitated",
+        "courageous",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e822cb5bffb25acedb",
+      "name": "Gentry",
+      "price": "$2,761.68",
+      "picture": "https://placedog.net/500/280/?id=201",
+      "age": 5,
+      "eyeColor": "hazel",
+      "gender": "male",
+      "tags": [
+        "agitated"
+      ]
+    },
+    {
+      "_id": "646f62e816be880dd578b3e3",
+      "name": "Webster",
+      "price": "$1,088.10",
+      "picture": "https://placedog.net/500/280/?id=202",
+      "age": 7,
+      "eyeColor": "green",
+      "gender": "male",
+      "tags": [
+        "agitated"
+      ]
+    },
+    {
+      "_id": "646f62e830caaf168e22905e",
+      "name": "Latoya",
+      "price": "$3,427.27",
+      "picture": "https://placedog.net/500/280/?id=203",
+      "age": 9,
+      "eyeColor": "amber",
+      "gender": "female",
+      "tags": [
+        "fearful",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e86756eb09ab653812",
+      "name": "Ferrell",
+      "price": "$1,190.08",
+      "picture": "https://placedog.net/500/280/?id=204",
+      "age": 2,
+      "eyeColor": "hazel",
+      "gender": "male",
+      "tags": [
+        "calm",
+        "fearful",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8d95052c40990d70f",
+      "name": "Bridgett",
+      "price": "$2,697.03",
+      "picture": "https://placedog.net/500/280/?id=205",
+      "age": 6,
+      "eyeColor": "amber",
+      "gender": "female",
+      "tags": [
+        "agitated",
+        "courageous"
+      ]
+    },
+    {
+      "_id": "646f62e8d714fdd5b1cb5037",
+      "name": "Pena",
+      "price": "$2,600.55",
+      "picture": "https://placedog.net/500/280/?id=206",
+      "age": 7,
+      "eyeColor": "brown",
+      "gender": "male",
+      "tags": [
+        "agitated"
+      ]
+    },
+    {
+      "_id": "646f62e80b97d7f926322153",
+      "name": "Hogan",
+      "price": "$3,907.93",
+      "picture": "https://placedog.net/500/280/?id=207",
+      "age": 7,
+      "eyeColor": "blue",
+      "gender": "male",
+      "tags": [
+        "agitated",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e80cefcb781e3904ac",
+      "name": "Dunlap",
+      "price": "$2,341.49",
+      "picture": "https://placedog.net/500/280/?id=208",
+      "age": 7,
+      "eyeColor": "blue",
+      "gender": "male",
+      "tags": [
+        "calm"
+      ]
+    },
+    {
+      "_id": "646f62e8bc20dac8af10fd56",
+      "name": "Christie",
+      "price": "$1,720.34",
+      "picture": "https://placedog.net/500/280/?id=209",
+      "age": 12,
+      "eyeColor": "yellow",
+      "gender": "female",
+      "tags": [
+        "courageous",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8c730bf01aaeeadbd",
+      "name": "Carlene",
+      "price": "$3,977.39",
+      "picture": "https://placedog.net/500/280/?id=210",
+      "age": 13,
+      "eyeColor": "brown",
+      "gender": "female",
+      "tags": [
+        "calm",
+        "shy"
+      ]
+    },
+    {
+      "_id": "646f62e8633b9d1cd4dea86e",
+      "name": "Felecia",
+      "price": "$3,300.83",
+      "picture": "https://placedog.net/500/280/?id=211",
+      "age": 5,
+      "eyeColor": "blue",
+      "gender": "female",
+      "tags": [
+        "agitated"
+      ]
+    },
+    {
+      "_id": "646f62e8c7c9595c099efeca",
+      "name": "Eunice",
+      "price": "$2,536.80",
+      "picture": "https://placedog.net/500/280/?id=212",
+      "age": 15,
+      "eyeColor": "hazel",
+      "gender": "female",
+      "tags": [
+        "agitated",
+        "shy"
+      ]
+    },
+    {
+      "_id": "646f62e8d523389669ec1f3e",
+      "name": "Jimenez",
+      "price": "$3,371.48",
+      "picture": "https://placedog.net/500/280/?id=213",
+      "age": 6,
+      "eyeColor": "hazel",
+      "gender": "male",
+      "tags": [
+        "agitated"
+      ]
+    },
+    {
+      "_id": "646f62e8bb3adf77e0618649",
+      "name": "Chris",
+      "price": "$3,707.90",
+      "picture": "https://placedog.net/500/280/?id=214",
+      "age": 8,
+      "eyeColor": "blue",
+      "gender": "female",
+      "tags": [
+        "calm"
+      ]
+    },
+    {
+      "_id": "646f62e8e1e58ac874ec76a8",
+      "name": "Woods",
+      "price": "$2,731.10",
+      "picture": "https://placedog.net/500/280/?id=215",
+      "age": 7,
+      "eyeColor": "yellow",
+      "gender": "male",
+      "tags": [
+        "agitated",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e85bc1150f5d66d09e",
+      "name": "Phelps",
+      "price": "$1,713.76",
+      "picture": "https://placedog.net/500/280/?id=216",
+      "age": 12,
+      "eyeColor": "blue",
+      "gender": "male",
+      "tags": [
+        "agitated"
+      ]
+    },
+    {
+      "_id": "646f62e8dcd244452770f513",
+      "name": "Clayton",
+      "price": "$1,390.65",
+      "picture": "https://placedog.net/500/280/?id=217",
+      "age": 7,
+      "eyeColor": "amber",
+      "gender": "male",
+      "tags": [
+        "agitated",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8f23d6f5e1efb34ac",
+      "name": "Mindy",
+      "price": "$3,936.00",
+      "picture": "https://placedog.net/500/280/?id=218",
+      "age": 2,
+      "eyeColor": "brown",
+      "gender": "female",
+      "tags": [
+        "aggressive"
+      ]
+    },
+    {
+      "_id": "646f62e823c23869bd312583",
+      "name": "Carole",
+      "price": "$2,131.47",
+      "picture": "https://placedog.net/500/280/?id=219",
+      "age": 14,
+      "eyeColor": "brown",
+      "gender": "female",
+      "tags": [
+        "calm",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e85ff8b22a6e9c9301",
+      "name": "Bush",
+      "price": "$1,634.00",
+      "picture": "https://placedog.net/500/280/?id=220",
+      "age": 11,
+      "eyeColor": "brown",
+      "gender": "male",
+      "tags": [
+        "agitated"
+      ]
+    },
+    {
+      "_id": "646f62e81430564ecb5ac14a",
+      "name": "Kelly",
+      "price": "$3,452.61",
+      "picture": "https://placedog.net/500/280/?id=221",
+      "age": 15,
+      "eyeColor": "amber",
+      "gender": "female",
+      "tags": [
+        "calm",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8d5d9ebc7b1c0d21e",
+      "name": "Briggs",
+      "price": "$2,239.92",
+      "picture": "https://placedog.net/500/280/?id=222",
+      "age": 3,
+      "eyeColor": "green",
+      "gender": "male",
+      "tags": [
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8d2038865a57f8c94",
+      "name": "Flynn",
+      "price": "$2,500.28",
+      "picture": "https://placedog.net/500/280/?id=223",
+      "age": 9,
+      "eyeColor": "green",
+      "gender": "male",
+      "tags": [
+        "calm",
+        "shy"
+      ]
+    },
+    {
+      "_id": "646f62e838165656853f4c46",
+      "name": "Parks",
+      "price": "$1,856.37",
+      "picture": "https://placedog.net/500/280/?id=224",
+      "age": 12,
+      "eyeColor": "brown",
+      "gender": "male",
+      "tags": [
+        "calm",
+        "aggressive",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8bb88c532308678b4",
+      "name": "Roy",
+      "price": "$1,765.56",
+      "picture": "https://placedog.net/500/280/?id=225",
+      "age": 13,
+      "eyeColor": "blue",
+      "gender": "male",
+      "tags": [
+        "agitated",
+        "courageous",
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e87112bae9dfc4570b",
+      "name": "Billie",
+      "price": "$3,962.65",
+      "picture": "https://placedog.net/500/280/?id=226",
+      "age": 12,
+      "eyeColor": "blue",
+      "gender": "female",
+      "tags": [
+        "fearful"
+      ]
+    },
+    {
+      "_id": "646f62e8a56174f216165213",
+      "name": "Mcclain",
+      "price": "$1,683.29",
+      "picture": "https://placedog.net/500/280/?id=227",
+      "age": 7,
+      "eyeColor": "green",
+      "gender": "male",
+      "tags": [
+        "docile"
+      ]
+    },
+    {
+      "_id": "646f62e8caebbb9d8fb558f1",
+      "name": "Katharine",
+      "price": "$1,575.95",
+      "picture": "https://placedog.net/500/280/?id=228",
+      "age": 8,
+      "eyeColor": "yellow",
+      "gender": "female",
+      "tags": [
+        "calm",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e8f6b11a4917653dbd",
+      "name": "Baldwin",
+      "price": "$2,101.67",
+      "picture": "https://placedog.net/500/280/?id=229",
+      "age": 13,
+      "eyeColor": "hazel",
+      "gender": "male",
+      "tags": [
+        "agitated",
+        "shy"
+      ]
+    },
+    {
+      "_id": "646f62e8cdf4bcc629c67ded",
+      "name": "Harrell",
+      "price": "$2,118.04",
+      "picture": "https://placedog.net/500/280/?id=230",
+      "age": 3,
+      "eyeColor": "hazel",
+      "gender": "male",
+      "tags": [
+        "shy",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e8c31253cc79be0024",
+      "name": "Paulette",
+      "price": "$2,699.53",
+      "picture": "https://placedog.net/500/280/?id=231",
+      "age": 6,
+      "eyeColor": "brown",
+      "gender": "female",
+      "tags": [
+        "calm"
+      ]
+    },
+    {
+      "_id": "646f62e87b20ed83e36e9a6c",
+      "name": "Lucille",
+      "price": "$2,913.74",
+      "picture": "https://placedog.net/500/280/?id=232",
+      "age": 15,
+      "eyeColor": "yellow",
+      "gender": "female",
+      "tags": [
+        "calm",
+        "courageous",
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e827505fd5afe27be5",
+      "name": "Ortega",
+      "price": "$3,862.86",
+      "picture": "https://placedog.net/500/280/?id=233",
+      "age": 3,
+      "eyeColor": "hazel",
+      "gender": "male",
+      "tags": []
+    },
+    {
+      "_id": "646f62e8b521bfbacc62efd3",
+      "name": "Buckley",
+      "price": "$2,823.59",
+      "picture": "https://placedog.net/500/280/?id=234",
+      "age": 9,
+      "eyeColor": "brown",
+      "gender": "male",
+      "tags": [
+        "wilful"
+      ]
+    },
+    {
+      "_id": "646f62e87b9532c371b9edd7",
+      "name": "Flora",
+      "price": "$2,227.06",
+      "picture": "https://placedog.net/500/280/?id=235",
+      "age": 3,
+      "eyeColor": "brown",
+      "gender": "female",
+      "tags": []
+    },
+    {
+      "_id": "646f62e81c8041e2f0823b6f",
+      "name": "Jaime",
+      "price": "$1,335.44",
+      "picture": "https://placedog.net/500/280/?id=236",
+      "age": 15,
+      "eyeColor": "green",
+      "gender": "female",
+      "tags": [
+        "calm",
+        "shy"
+      ]
+    }
+  ]
+}

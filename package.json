@@ -1,0 +1,12 @@
+{
+  "name": "Dog-Finder-Server",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "server": "serve --cors -p 4000"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
